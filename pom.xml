@@ -29,7 +29,7 @@
 		<configuration>
 			<archive>
 				<manifest>
-					<mainClass>fr.uvsq.pglp.App</mainClass>
+					<mainClass>App</mainClass>
 				</manifest>
 			</archive>
 		</configuration>
